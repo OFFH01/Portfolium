@@ -1,0 +1,42 @@
+
+          h2{
+            color: green;
+          }
+          nav{
+            color: #123cdf;
+            background-color: #abc123;
+          }
+          .titulo1{
+              color: rgb(0, 0, 0);
+              font-size: 30px;
+              text-align: center;
+              padding: 30px;
+
+          }
+          .fontdef{
+            color: rgb(0, 0, 0);
+            font-size: 30px;
+            padding: 30px;
+
+        }
+          #titulo-principal{
+              background-color: #15c5e4;
+          }
+          .footer{
+              color: black;
+              font-size: 20px;
+              text-align: center;
+              padding: 3px;
+              position: absolute;
+              bottom: 0;
+              width: 100%;
+              height: 50px;
+              
+          }
+          h1{
+              color: #25c2ff;
+          }
+
+          .bg-page{
+              background-color: #6c10d6 !important;
+          }
