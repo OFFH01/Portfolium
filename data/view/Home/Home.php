@@ -36,6 +36,10 @@
         Use the top menu to navegate<br>
         </p>
    </div>
+   <div class="mx-auto" style="width: 297px;">
+      <img class="img-fluid" src="sys/libs/images/world.gif" alt="" width="297" height="297"></a>
+   </div>
+   
         
 
       
