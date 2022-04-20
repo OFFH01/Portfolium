@@ -1,4 +1,13 @@
 
+          html {
+            min-height: 100%;
+            position: relative;
+          }
+          body {
+            margin: 0;
+            margin-bottom: 40px;
+          }
+
           h2{
             color: green;
           }
@@ -6,29 +15,42 @@
             color: #123cdf;
             background-color: #abc123;
           }
-          image{
-            height: auto; 
-            
-        }
-          
-          .titulo1{
+          .headtitle{
               color: rgb(0, 0, 0);
-              font-size: 30px;
+              font-size: 40px;
               text-align: center;
               padding: 30px;
+              font-family: "Courier", serif;
 
           }
-          .fontdef{
+          .Mainheadtitle{
             color: rgb(0, 0, 0);
-            font-size: 30px;
+            font-size: 50px;
+            text-align: center;
             padding: 30px;
+            font-family: "Courier", serif;
 
         }
+          .fontdef{
+            color: rgb(0, 0, 0);
+            font-size: 35px;
+            padding: 30px;
+            font-family: "Perpetua";
+
+        }
+        .texto-justificado{
+          text-align: center;
+          
+          font-size: 40px;
+          padding: 30px;
+          font-family: "Perpetua";
+
+          }
           #titulo-principal{
               background-color: #15c5e4;
           }
           .footer{
-              color: black;
+              
               font-size: 20px;
               text-align: center;
               padding: 0px;
@@ -43,9 +65,15 @@
           }
 
           .bg-page{
-              background-color: #6c10d6 !important;
+              background-color: black !important;
           }
 
-          body {
-            background-color: #262626;
+
+          .scrolled-down{
+            transform:translateY(-100%); transition: all 0.3s ease-in-out;
           }
+          .scrolled-up{
+            transform:translateY(0); transition: all 0.3s ease-in-out;
+          }
+
+

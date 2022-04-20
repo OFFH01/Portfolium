@@ -1,7 +1,7 @@
 <body style="color: black;">
-<nav class="navbar navbar-expand-lg navbar-dark bg-page">
+<nav class="autohide navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href=""><img src="sys/libs/images/logo1.png" alt="" width="75" height="30"></a> <!--onclick="showview('Home')"-->
+    <a class="navbar-brand" href=""><img src="sys/libs/images/logo1.png" alt="" width="50" height="30"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

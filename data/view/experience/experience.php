@@ -1,11 +1,11 @@
 <div>
-    <h1 id="titulo-principal" class="titulo1">Experiencia.</h1>
+    <h1 class="headtitle">Experience.</h1>
     <ul class="list-unstyled">
     <div class="fontdef">
-        <li>Experiencia.
+        <li>
             <ul>
-                <li>Proyecto creacion de un entorno 3D.</li>
-                <li>Jefe del capitulo estudiantil.</li>
+                <li>Project creation of a 3D environment.</li>
+                <li>Head of the student chapter.</li>
             </ul>
         </li>
     </ul>

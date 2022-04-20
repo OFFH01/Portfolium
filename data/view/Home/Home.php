@@ -1,45 +1,10 @@
-<!-- Bloques de texto
-            Parrafos
-            Saltos de linea
-            Divisiones
-            Texto con formato
-            Alineacion de textos
-         -->
-         <!-- Parrafos -->
-         <!--
-         <p>
-        HTML stands for Hyper Text Markup Language <br>
-        HTML is the standard markup language for Web pages<br>
-        HTML elements are the building blocks of HTML pages<br>
-        HTML elements are represented by <> tags
-        </p>
-        <p>
-           <b>An HTML element is a start tag and an end tag with content in between:
-
-           This is a Heading</b>
-           <h1>Titulo 1</h1>
-           <h2>Titulo 2</h2>
-           <h3>Titulo 3</h3>
-           <h4>Titulo 4</h4>
-           <h5>Titulo 5</h5>
-           <h6>Titulo 6</h6>
-           <h7>Titulo 7</h7>
-        </p>
-
-        <div>
-
-        </div>
-      -->
-   <div class="titulo1">
-   <p>
-        Wellcome to my main page! <br>
-        Use the top menu to navegate<br>
-        </p>
+   <br><br><br>
+   <img style="float:left; margin:10px;" src="sys/libs/images/Oscar.png"/>
+   <div class="Mainheadtitle">
+      Who i am? 
    </div>
-   <div class="mx-auto" style="width: 297px;">
-      <img class="img-fluid" src="sys/libs/images/world.gif" alt="" width="297" height="297"></a>
-   </div>
-   
-        
-
-      
+   <p class="texto-justificado">
+      Hi my name is Oscar Francisco Ferreira Hurtado.<br>
+      I am a student in Information Technology Engineering.<br>
+      For years one of my passions in this life has been technology, the simple fact of creating something and being able to share it with the world and that they can enjoy it has been one of the greatest motivations to have the path that I have chosen, this website is a presentation of me to you.
+   </p>

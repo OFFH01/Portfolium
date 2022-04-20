@@ -1,14 +1,12 @@
 <div>
-    <h1 id="titulo-principal" class="titulo1">Portfolio</h1>
+    <h1 class="headtitle">Portfolio</h1>
     <ul class="list-unstyled">
     <div class="fontdef">
-        <li>Mi nombre es Oscar Francisco Ferreira Hurtado.</li>
-         <li>Soy Estudiante en la Ingenieria en Tecnologias de la Informacion.</li>
-         <li>Estas son las Carreras, especialidades o puestos que busco en un futuro.
+         <li>These are the Careers, specialties or positions that I am looking for in the future.
             <ul>
-                <li>Desarrollador de Software.</li>
-                <li>Mantenimiento de Servidores.</li>
-                <li>Configuracion de Servirdores.</li>
+                <li>Software developer.</li>
+                <li>Server Maintenance.</li>
+                <li>Installation and configuration of servers.</li>
             </ul>
         </li>
     </ul>

@@ -10,5 +10,13 @@
       <link rel="stylesheet" href="sys/libs/bootstrap/css/bootstrap.css">
       <script type="text/javascript" src="sys/libs/bootstrap/js/bootstrap.js"></script>
       <script type="text/javascript" src="sys/libs/js/main.js"></script>
+      <style>
+body {
+  background-image: url('sys/libs/images/back.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
   </head>
  
